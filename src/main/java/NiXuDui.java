@@ -1,8 +1,7 @@
 /**
- * 归并排序
  *
  */
-public class GuiBingPaiXu {
+public class NiXuDui {
   public static void main(String[] args) {
 
   }
